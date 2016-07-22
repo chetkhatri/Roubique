@@ -11,3 +11,10 @@ P.S:
 1. Submission1.csv will give all possible cards recommendations.
 2. Submission2.csv will give those customer name and recommended card who are eligible for more than two cards but second card has bin offered according to maximum payout received by Rubique.
 
+Souce Code:
+
+This algorithm has been written in Python.
+1. Roubique submission.ipynb : This is Python Notebook file Contains Code Algorithm which reads Policies.csv file and Data.csv file and write two differenet .csv files as a output.
+2. Roubique_submission.py : This is Plain Python file, directly eligible to run in Interpreter.
+
+Note: to run this algorithms necessary packages should be installed in Python.
