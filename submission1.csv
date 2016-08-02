@@ -1,49 +1,49 @@
 Customer name,Recommended Card
-1,['Card 2']
-2,['Card 2']
-3,['Card 2']
-4,['Card 2']
-5,['Card 2']
-7,['Card 2']
-8,"['Card 4', 'Card 2']"
-9,"['Card 3', 'Card 2']"
-10,"['Card 3', 'Card 2']"
-11,"['Card 3', 'Card 2']"
-12,"['Card 3', 'Card 2']"
-13,"['Card 3', 'Card 2']"
-14,"['Card 3', 'Card 2']"
-15,"['Card 4', 'Card 2']"
-16,"['Card 4', 'Card 2']"
-17,"['Card 4', 'Card 2']"
-18,"['Card 4', 'Card 2']"
-19,['Card 2']
-20,['Card 2']
-21,['Card 4']
-22,"['Card 4', 'Card 2']"
-23,['Card 4']
-24,"['Card 3', 'Card 2']"
-25,"['Card 3', 'Card 2']"
-26,"['Card 4', 'Card 3', 'Card 2']"
-27,"['Card 3', 'Card 2']"
-28,"['Card 4', 'Card 2']"
-29,"['Card 4', 'Card 3', 'Card 2']"
-30,['Card 2']
-31,"['Card 4', 'Card 5', 'Card 2', 'Card 1']"
-32,"['Card 3', 'Card 2']"
-33,"['Card 3', 'Card 2']"
-34,"['Card 3', 'Card 2']"
-35,"['Card 4', 'Card 3', 'Card 2']"
-36,"['Card 4', 'Card 2']"
-37,"['Card 4', 'Card 2']"
-38,['Card 4']
-39,"['Card 3', 'Card 2']"
-40,"['Card 3', 'Card 2']"
-41,['Card 2']
-42,['Card 2']
-43,"['Card 3', 'Card 2']"
-44,"['Card 3', 'Card 2']"
-45,"['Card 3', 'Card 2']"
-46,"['Card 3', 'Card 2']"
-47,['Card 2']
-48,['Card 2']
-50,"['Card 3', 'Card 2']"
+1,Card 2
+2,Card 2
+3,Card 2
+4,Card 2
+5,Card 2
+7,Card 2
+8,"Card 4,Card 2"
+9,"Card 3,Card 2"
+10,"Card 3,Card 2"
+11,"Card 3,Card 2"
+12,"Card 3,Card 2"
+13,"Card 3,Card 2"
+14,"Card 3,Card 2"
+15,"Card 4,Card 2"
+16,"Card 4,Card 2"
+17,"Card 4,Card 2"
+18,"Card 4,Card 2"
+19,Card 2
+20,Card 2
+21,Card 4
+22,"Card 4,Card 2"
+23,Card 4
+24,"Card 3,Card 2"
+25,"Card 3,Card 2"
+26,"Card 4,Card 3,Card 2"
+27,"Card 3,Card 2"
+28,"Card 4,Card 2"
+29,"Card 4,Card 3,Card 2"
+30,Card 2
+31,"Card 4,Card 5,Card 2,Card 1"
+32,"Card 3,Card 2"
+33,"Card 3,Card 2"
+34,"Card 3,Card 2"
+35,"Card 4,Card 3,Card 2"
+36,"Card 4,Card 2"
+37,"Card 4,Card 2"
+38,Card 4
+39,"Card 3,Card 2"
+40,"Card 3,Card 2"
+41,Card 2
+42,Card 2
+43,"Card 3,Card 2"
+44,"Card 3,Card 2"
+45,"Card 3,Card 2"
+46,"Card 3,Card 2"
+47,Card 2
+48,Card 2
+50,"Card 3,Card 2"

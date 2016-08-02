@@ -1,4 +1,3 @@
-
 # coding: utf-8
 
 # In[1]:
@@ -47,7 +46,18 @@ def recommend_card(cdf):
     
     result1 = dict()
     result2 = dict()
+    fin = dict()
     for customerid, card in cards.iteritems():
+	for icard in card:
+		try:
+			if(len(icard) > 1) and fin.get(customerid) != None:
+				fin[customerid] = str(fin.get(customerid)) + "," + icard
+			else:
+				fin[customerid] = icard
+		except:
+			raise
+    
+    for customerid, card in fin.iteritems():
         result1[customerid + 1] = card
     submission1 = pd.DataFrame({
             "Customer name": list(result1.keys()),
