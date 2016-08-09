@@ -18,3 +18,5 @@ This algorithm has been written in Python.
 2. Roubique_submission.py : This is Plain Python file, directly eligible to run in Interpreter.
 
 Note: to run this algorithms necessary packages should be installed in Python.
+
+Exposed API is available at: https://rubique.herokuapp.com/api/v1/transform
